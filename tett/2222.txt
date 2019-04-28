@@ -1,2 +1,6 @@
 fwfdwfwfeweeee
+<<<<<<< .mine
 dwdwdw
+=======
+222wdfwdwdwdw
+>>>>>>> .theirs
