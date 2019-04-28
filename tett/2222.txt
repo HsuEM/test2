@@ -1,7 +1,2 @@
 fwfdwfwfeweeee
-22222222222
-<<<<<<< HEAD
-3232
-=======
-test
->>>>>>> e0633c1b5022c0d782555e33981f70dcd48b5a75
+fwewww
