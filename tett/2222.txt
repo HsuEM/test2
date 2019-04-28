@@ -1,2 +1,6 @@
 fwfdwfwfeweeee
+<<<<<<< .mine
 222£¾£¾£¾
+=======
+222wdfwdw
+>>>>>>> .theirs
