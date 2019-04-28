@@ -1,6 +1,2 @@
 fwfdwfwfeweeee
-<<<<<<< .mine
-dwdwdw
-=======
-222wdfwdwdwdw
->>>>>>> .theirs
+22222222222
